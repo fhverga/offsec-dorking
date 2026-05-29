@@ -17,7 +17,7 @@ Ferramenta para acelerar atividades de reconhecimento, descoberta de exposição
 
 ## 📸 Preview
 
-![Preview](demo.png)
+![Preview](demo_dork.png)
 
 ---
 
