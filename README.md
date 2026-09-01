@@ -1,4 +1,4 @@
- # 🛡️ Offsec Recon
+# 🛡️ Offsec Recon
 
 <div align="center">
 
@@ -10,8 +10,15 @@ Ferramenta para acelerar atividades de reconhecimento, descoberta de exposição
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Web-orange)
 ![AppSec](https://img.shields.io/badge/focus-AppSec-red)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://fhverga.github.io/offsec-dorking/)
 
 </div>
+
+---
+
+## 🌐 Acesso ao Projeto
+
+🔗 **Demo pública:** [fhverga.github.io/offsec-dorking](https://fhverga.github.io/offsec-dorking/)
 
 ---
 
@@ -116,7 +123,6 @@ Identificar potenciais exposições antes de um pentest.
 ## ⚠️ Aviso
 
 Esta ferramenta utiliza exclusivamente fontes públicas e mecanismos de busca disponíveis publicamente.
-
 O uso deve ocorrer apenas em ambientes autorizados e de acordo com as políticas da organização responsável pela avaliação.
 
 ---
