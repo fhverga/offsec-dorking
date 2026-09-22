@@ -497,6 +497,14 @@ const categories = [
     ]
   },
   {
+    name: "🎯 CVE Hunting",
+    dorks: [
+      { title: "SECURITY.md por Org",    icon: "🏢", tag: "github", url: "https://github.com/search?q=org:{T}%20path:SECURITY.md&type=code" },
+      { title: "Repos c/ Forks (Termo)", icon: "🔎", tag: "github", url: "https://github.com/search?q={T}%20forks:%3E5&type=repositories" },
+      { title: "SECURITY.md + Bounty",   icon: "💰", tag: "github", url: "https://github.com/search?q=path:SECURITY.md%20(bounty%20OR%20reward%20OR%20%22responsible%20disclosure%22)&type=code" },
+    ]
+  },
+  {
     name: "🧩 3rd Party & CMS",
     dorks: [
       { title: "WordPress",           icon: "🟦", tag: "google",    url: "https://www.google.com/search?q=site:{T}%20inurl:wp-%20|%20inurl:wp-content%20|%20inurl:plugins%20|%20inurl:uploads%20|%20inurl:themes%20|%20inurl:download" },
